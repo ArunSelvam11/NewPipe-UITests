@@ -16,7 +16,7 @@ Please proceed with a Pull Request only after you're assigned. It'd be sad if yo
 ## Steps
 
 1. Create an issue and describe your idea
-2. [Fork it](https://github.com/github-changelog-generator/github-changelog-generator/fork)
+2. [Fork it](https://github.com/ArunSelvam11/NewPipe-UITests.git/fork)
 3. Create your feature branch (`git checkout -b my-new-feature`)
 4. Commit your changes (`git commit -m 'Add some feature'`)
 5. Publish the branch (`git push origin my-new-feature`)
