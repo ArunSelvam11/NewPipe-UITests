@@ -36,8 +36,8 @@ Before running the test, set your device's DesiredCapabilities accordingly in th
 * PLATFORM_VERSION
 ```
 
-Then install the NewPipe app in your android device from [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases)
-``
+Then install the NewPipe Android app in your android device from [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases)
+
 ## Running the tests
 
 To run the test 
